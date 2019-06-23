@@ -13,3 +13,4 @@ integration_test:
 	@test/integration_test.sh
 
 test: linter integration_test
+
